@@ -1,14 +1,8 @@
-### Hi there 👋
+# Namaste, I'm Suyash Pradhan
 
-<!--
-**suyashpradhan/suyashpradhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on JavaScript.
+- 🌱 I’m currently learning ReactJS.
+- 💬 Ask me about Front-End Development, Web-Design, UI/UX.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Javascript
-- 🌱 I’m currently learning ...ReactJS
-- 💬 Ask me about ... Front-End Development 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suyashpradhan&layout=compact&show_icons=true&theme=onedark)](https://github.com/suyashpradhan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suyashpradhan&layout=compact&theme=onedark)](https://github.com/suyashpradhan/github-readme-stats)
