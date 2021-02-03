@@ -1,6 +1,6 @@
-## Namaste 🙏, 
-# I'm [Suyash Pradhan][website] 
-### I'm a UI Developer, UI/UX Designer, and Freelancer!!
+### Namaste 🙏
+# I'm [Suyash Pradhan][website]. 
+### UI Developer with a passion for UI/UX.
 
 - 🔭 I’m currently working on JavaScript and ReactJS.
 - 🌱 I’m currently learning MERN Stack.
