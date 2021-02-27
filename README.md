@@ -1,4 +1,4 @@
-![Banner](banner.png)
+![website](banner.png)
 
 - 🔭 Working: JavaScript and ReactJS.
 - 🌱 Learning: MERN Stack.
