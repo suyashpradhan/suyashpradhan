@@ -1,11 +1,9 @@
-### Namaste 🙏
-# I'm [Suyash Pradhan][website]. 
-### UI Developer with a passion for UI/UX.
+![Banner](banner.png)
 
-- 🔭 I’m currently working on JavaScript and ReactJS.
-- 🌱 I’m currently learning MERN Stack.
-- 💬 Ask me about Front-End Development, Web-Design, UI/UX.
-- 👯 I’m looking to collaborate with other developers.
+- 🔭 Working: JavaScript and ReactJS.
+- 🌱 Learning: MERN Stack.
+- 💬 Ask: About Front-End Development, Web-Design, UI/UX.
+- 👯 Collaborate: With other Developers.
 - 🥅 2021 Goals: Contribute to Open Source projects.
 - ⚡ Fun fact: I love to read books and play video games
 ### Languages and Tools:
