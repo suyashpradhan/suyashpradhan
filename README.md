@@ -1,5 +1,7 @@
 ![website](banner.png)
 
+![](https://komarev.com/ghpvc/?username=suyashpradhan)
+
 ### Connect with me:
  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">][linkedin] [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">][twitter] [<img src="https://img.shields.io/badge/Dribbble-ea4c89?style=for-the-badge&logo=dribbble&logoColor=white">][dribbble] [<img src="https://img.shields.io/badge/Hashnode-2962ff?style=for-the-badge&logo=hashnode&logoColor=white">][hashnode]  [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">][instagram] 
 
