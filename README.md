@@ -10,7 +10,7 @@
 - 🌱 <b>Learning</b>: React Native.
 - 💬 <b>Ask</b>: About Front-End Development, Web-Design, UI/UX.
 - 👯 <b>Collaborate</b>: With other Developers.
-- 🥅 <b>2024 Goals</b>: Contribute to Open Source projects.
+- 🥅 <b>2026 Goals</b>: Contribute to Open Source projects.
 - ⚡ <b>Fun fact</b>: Loves playing video games and tennis.
 
 ### Languages :
